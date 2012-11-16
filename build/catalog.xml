@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/cantstopgames/filereader/FileReader" mod="1352993017832" signatureChecksum="2826391527" >
+        <def id="com.cantstopgames.filereader:FileReader" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/cantstopgames/filereader/XmlLoader" mod="1353056713137" signatureChecksum="4200568616" >
+        <def id="com.cantstopgames.filereader:XmlLoader" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="XML" type="e" /> 
+        <dep id="com.cantstopgames.filereader:FileReader" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="XML" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/cantstopgames/filereader/ImageLoader" mod="1352995122728" signatureChecksum="1729993928" >
+        <def id="com.cantstopgames.filereader:ImageLoader" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="flash.events:AsyncErrorEvent" type="e" /> 
+        <dep id="flash.events:IOErrorEvent" type="e" /> 
+        <dep id="flash.display:Loader" type="e" /> 
+        <dep id="com.cantstopgames.filereader:FileReader" type="e" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="e" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="flash.events:AsyncErrorEvent" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.display:DisplayObject" type="s" /> 
+        <dep id="flash.events:IOErrorEvent" type="s" /> 
+        <dep id="flash.display:Loader" type="s" /> 
+        <dep id="flash.events:SecurityErrorEvent" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_49ee4c6500d6ff5305e08429cdbe54b8e576de8c24667df6d6d0a3d8902e943f_flash_display_Sprite" mod="1353069524214" signatureChecksum="3075635917" >
+        <def id="_49ee4c6500d6ff5305e08429cdbe54b8e576de8c24667df6d6d0a3d8902e943f_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="76fe5e1c4fe382e267d2dc8f46d1d8e4e409f630762502cc9d7e68c6f821fc6a"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

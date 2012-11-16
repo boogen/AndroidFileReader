@@ -1,0 +1,38 @@
+!SESSION 2011-09-21 14:05:24.746 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2011-09-21 14:07:44.674
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2011-09-21 14:08:27.571 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\dev\air_intents\AndroidIntent\AndroidIntentAPI-AndroidProject\default.properties
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\dev\air_intents\AndroidIntent\AndroidIntentAPI-AndroidProject\default.properties
+
+!ENTRY org.eclipse.ui 4 4 2011-09-21 14:08:44.873
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2011-09-21 14:08:56.778 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\dev\air_intents\AndroidIntent\AndroidIntentAPI-AndroidProject\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\dev\air_intents\AndroidIntent\AndroidIntentAPI-AndroidProject\.project
+
+!ENTRY org.eclipse.ui 4 4 2011-09-21 14:09:23.663
+!MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2011-09-21 14:10:05.978 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2011-09-21 14:12:09.898
+!MESSAGE Invalid preference page path: XML Syntax
