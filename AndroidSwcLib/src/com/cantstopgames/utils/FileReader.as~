@@ -1,0 +1,25 @@
+package com.cantstopgames.filereader
+{
+	import flash.external.ExtensionContext;
+	import flash.events.EventDispatcher;
+
+	public class FileReader extends EventDispatcher 
+	{
+		private static var extContext:ExtensionContext = null;
+		
+		public static function loadFile(path:String):void 
+		{
+			initContext();
+			extContext.call("LoadFile", path);
+		}
+
+		private static function initContext():void
+		{
+			if (!extContext)
+			{
+				extContext = ExtensionContext.createExtensionContext("com.cantstopgames.FileReader", "");
+			}
+		}
+
+	}
+}
