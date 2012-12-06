@@ -1,12 +1,12 @@
 <extension xmlns="http://ns.adobe.com/air/extension/3.1">
-	  <id>com.cantstopgames.FileReader</id>
+	  <id>com.cantstopgames.utils</id>
 	  <versionNumber>1</versionNumber>
 	  <platforms>
 		<platform name="Android-ARM">
 	      <applicationDeployment>
-	        <nativeLibrary>ReadFileAPI.jar</nativeLibrary>
-	        <initializer>com.cantstopgames.filereader.FileReader</initializer>
-	        <finalizer>com.cantstopgames.filereader.FileReader</finalizer>
+	        <nativeLibrary>UtilsAPI.jar</nativeLibrary>
+	        <initializer>com.cantstopgames.utils.Utils</initializer>
+	        <finalizer>com.cantstopgames.utils.Utils</finalizer>
 	      </applicationDeployment>
 	    </platform>	
         <platform name="default">

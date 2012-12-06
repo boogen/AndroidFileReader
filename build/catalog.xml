@@ -29,6 +29,20 @@
         <dep id="AS3" type="n" /> 
         <dep id="flash.events:EventDispatcher" type="i" /> 
       </script>
+      <script name="_35aeb12a7210b760ac2c0ef8138521e9f52cd450c15e47debb054eae5307f5ae_flash_display_Sprite" mod="1353314898273" signatureChecksum="3456137999" >
+        <def id="_35aeb12a7210b760ac2c0ef8138521e9f52cd450c15e47debb054eae5307f5ae_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/cantstopgames/filereader/RawDataLoader" mod="1353314740646" signatureChecksum="2383634266" >
+        <def id="com.cantstopgames.filereader:RawDataLoader" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="com.cantstopgames.filereader:FileReader" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
       <script name="com/cantstopgames/filereader/ImageLoader" mod="1352995122728" signatureChecksum="1729993928" >
         <def id="com.cantstopgames.filereader:ImageLoader" /> 
         <dep id="flash.events:Event" type="e" /> 
@@ -47,14 +61,8 @@
         <dep id="AS3" type="n" /> 
         <dep id="flash.events:EventDispatcher" type="i" /> 
       </script>
-      <script name="_49ee4c6500d6ff5305e08429cdbe54b8e576de8c24667df6d6d0a3d8902e943f_flash_display_Sprite" mod="1353069524214" signatureChecksum="3075635917" >
-        <def id="_49ee4c6500d6ff5305e08429cdbe54b8e576de8c24667df6d6d0a3d8902e943f_flash_display_Sprite" /> 
-        <dep id="flash.system:Security" type="e" /> 
-        <dep id="AS3" type="n" /> 
-        <dep id="flash.display:Sprite" type="i" /> 
-      </script>
       <digests>
-        <digest type="SHA-256" signed="false" value="76fe5e1c4fe382e267d2dc8f46d1d8e4e409f630762502cc9d7e68c6f821fc6a"   />
+        <digest type="SHA-256" signed="false" value="90852c74214395c76158143fac092cfcf18cd68e301b96dca77e95a37fbbf142"   />
       </digests>
     </library>
   </libraries>
