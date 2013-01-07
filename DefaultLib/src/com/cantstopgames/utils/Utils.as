@@ -18,5 +18,17 @@ package com.cantstopgames.utils {
 			return "";
 		}		
 		
+		public static function getCurrencyCode():String {
+			return "";
+		}
+		
+		public static function getCurrencySymbol():String {
+			return "";
+		}		
+		
+		public static function getGraphicsDeviceName():String {
+			return "";
+		}
+		
 	}
 }

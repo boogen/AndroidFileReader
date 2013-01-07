@@ -25,6 +25,21 @@ package com.cantstopgames.utils
 			initContext();
 			return extContext.call("GetLanguage") as String;
 		}
+		
+		public static function getCurrencyCode():String {
+			initContext();
+			return extContext.call("GetCurrencyCode") as String;
+		}
+		
+		public static function getCurrencySymbol():String {
+			initContext();
+			return extContext.call("GetCurrencySymbol") as String;
+		}
+		
+		public static function getGraphicsDeviceName():String {
+			initContext();
+			return extContext.call("GetGraphicsDeviceName") as String;
+		}
 
 		private static function initContext():void
 		{

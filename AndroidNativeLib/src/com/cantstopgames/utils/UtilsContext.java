@@ -19,6 +19,9 @@ public class UtilsContext extends FREContext {
 		functionMap.put("LoadFile", new LoadFile());
 		functionMap.put("GetCountry", new GetCountry());
 		functionMap.put("GetLanguage", new GetLanguage());
+		functionMap.put("GetCurrencyCode", new GetCurrencyCode());
+		functionMap.put("GetCurrencySymbol", new GetCurrencySymbol());
+		functionMap.put("GetGraphicsDeviceName", new GetGraphicsDeviceName());
 		return functionMap;
 	}
 
